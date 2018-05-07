@@ -26,4 +26,3 @@ Check idrac 7 hardwares status via SNMP. Currently supports these hardware:
 
 [GPLv3] (./LICENSE.md)
 
-Change for git test
